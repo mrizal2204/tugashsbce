@@ -1,0 +1,93 @@
+body {
+  font-family: "Open Sans", "Poppins";
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  /* justify-content: center;
+  align-items: center; */
+  height: 100vh;
+}
+.conteiner {
+  display: flex;
+  width: 100%;
+  max-width: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 768px;
+  padding: 10px;
+  text-align: center;
+  flex: 2;
+  border-radius: 20px;
+}
+
+.judul {
+}
+
+.lgn-container {
+  width: 100%;
+  max-width: 400px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  flex: 1;
+  padding: 48px;
+  height: auto;
+  width: 100%;
+  box-sizing: border-box;
+  border-top-right-radius: 20x;
+  border-bottom-right-radius: 20px;
+}
+.img-content {
+  max-width: 100%;
+  height: auto;
+}
+
+.from-label {
+  font-size: large;
+}
+
+.input-label {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+.btn-login {
+  cursor: pointer;
+  color: #fff;
+  background-color: #8053ff;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.btn-g {
+  cursor: pointer;
+  color: #fff;
+  background-color: black;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.forgot-password {
+  text-decoration: none;
+  display: inline;  
+  font-size: small;
+  padding-right: 10px;
+   */
+
+
+
+   
+}
